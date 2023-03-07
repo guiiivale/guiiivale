@@ -1,5 +1,6 @@
 ## Possuo conhecimento e experiência consideráveis em:
 
+- C.
 - PHP.
 - Laravel. 
 - Livewire.
