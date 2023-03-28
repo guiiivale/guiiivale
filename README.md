@@ -1,6 +1,5 @@
 ## Possuo conhecimento e experiência consideráveis em:
 
-- C.
 - PHP.
 - Laravel. 
 - Livewire.
@@ -27,6 +26,7 @@
 - Google Ad Manager API.
 - Google Ads API.
 - Midía programática.
+- C.
 
 ## Analytics 
 
