@@ -24,7 +24,10 @@
 - Laravel queues.
 - SCRUM.
 - Google Ad Manager API.
+- Google Analytics API.
 - Google Ads API.
+- Facebook API.
+- Whatsapp API.
 - Midía programática.
 - C.
 
