@@ -11,15 +11,9 @@
 - Stored Functions.
 - API RESTful.
 - Firebase/MongoDB.
-- Docker/Laradock.
-- e-Commerce.
 - DevOps.
-- GitHub.
-- Gitlab.
 - Pipeline CI/CD.
-- AWS. 
-- OOP.
-- Repository pattern.
+- AWS.
 - Laravel queues.
 - SCRUM.
 - Google Ad Manager API.
