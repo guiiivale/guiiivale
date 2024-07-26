@@ -1,7 +1,9 @@
 ## Knowledge
 
 - PHP.
-- Laravel. 
+- Laravel.
+- C#.
+- .NET and ASP NET.
 - Livewire.
 - JS.
 - Vue.
@@ -25,5 +27,4 @@
 - Google Ads API.
 - Facebook API.
 - Whatsapp API.
-- C.
 
