@@ -1,13 +1,12 @@
-## Possuo conhecimento e experiência consideráveis em:
+## Knowledge
 
 - PHP.
 - Laravel. 
 - Livewire.
-- JavaScript. 
-- jQuery.
+- JS.
+- Vue.
 - SQL. 
 - Stored Functions.
-- Integração com API's.
 - API RESTful.
 - Firebase/MongoDB.
 - Docker/Laradock.
@@ -15,12 +14,10 @@
 - DevOps.
 - GitHub.
 - Gitlab.
-- Implementação de pipeline CI/CD.
-- Servidores Apache e Linux. 
-- Padrão de arquitetura MVC.
-- Programação orientada a objetos.
+- Pipeline CI/CD.
+- AWS. 
+- OOP.
 - Repository pattern.
-- Criação e aplicação de testes automatizados.
 - Laravel queues.
 - SCRUM.
 - Google Ad Manager API.
@@ -28,6 +25,5 @@
 - Google Ads API.
 - Facebook API.
 - Whatsapp API.
-- Midía programática.
 - C.
 
