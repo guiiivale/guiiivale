@@ -2,6 +2,7 @@
 
 - PHP.
 - Laravel.
+- Filament.
 - C#.
 - .NET and ASP NET.
 - Livewire.
