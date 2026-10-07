@@ -7,6 +7,7 @@
 - .NET and ASP NET.
 - Livewire.
 - JS.
+- React.
 - Vue.
 - SQL. 
 - Stored Functions.
